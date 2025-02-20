@@ -46,7 +46,7 @@ Edit
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/water-conservation-game.git
+   git clone https://github.com/MasterAditya/water-conservation-game.git
    cd water-conservation-game
 Open the Game:
 
